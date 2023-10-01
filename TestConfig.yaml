@@ -1,0 +1,9 @@
+api_id: YOUR_API_ID
+api_hash: YOUR_API_HASH
+accounts:
+  - phone: +79999999999
+    session: SomeAccount.session
+  ...
+channels:
+  - @FreeReactions
+  ...
